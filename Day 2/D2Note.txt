@@ -1,0 +1,7 @@
+For Semantic HTML
+1. Use strong, instead of b for bold.
+2. Use em(emphasize) for italic instead of i.
+3. write alt attribute(Mention proper details like 'grass eating horse') for image element
+
+<ol> is a parent element, <li> is a child element.
+learn nesting list
